@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/577
     wikipedia: http://www.online-literature.com/myrtle-reed/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26673#At-the-Sign-of-the-Jack-O-Lantern
 gutenberg_issued: '2008-09-20'
 gutenberg_type: Text
 identifiers:
